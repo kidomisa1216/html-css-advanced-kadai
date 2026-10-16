@@ -947,10 +947,6 @@ header {
     background-position-y: center;
   }
 
-  .product-photo {
-    width: 100%;
-  }
-
   #product-title {
     background-color:#2710d5 ;
     width: 368px;
@@ -1049,6 +1045,11 @@ header {
     height: 80%;
     background-size: cover;
     }
+
+　 .product-photo {
+    width: 100%;
+  }
+  　
 
     #product-title {
     width: 136px;
